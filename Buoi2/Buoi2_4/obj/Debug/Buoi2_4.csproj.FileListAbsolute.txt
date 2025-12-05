@@ -1,0 +1,9 @@
+M:\Quang\Buoi2\Buoi2_4\bin\Debug\Buoi2_4.exe.config
+M:\Quang\Buoi2\Buoi2_4\bin\Debug\Buoi2_4.exe
+M:\Quang\Buoi2\Buoi2_4\bin\Debug\Buoi2_4.pdb
+M:\Quang\Buoi2\Buoi2_4\obj\Debug\Buoi2_4.csproj.AssemblyReference.cache
+M:\Quang\Buoi2\Buoi2_4\obj\Debug\Buoi2_4.Properties.Resources.resources
+M:\Quang\Buoi2\Buoi2_4\obj\Debug\Buoi2_4.csproj.GenerateResource.cache
+M:\Quang\Buoi2\Buoi2_4\obj\Debug\Buoi2_4.csproj.CoreCompileInputs.cache
+M:\Quang\Buoi2\Buoi2_4\obj\Debug\Buoi2_4.exe
+M:\Quang\Buoi2\Buoi2_4\obj\Debug\Buoi2_4.pdb
